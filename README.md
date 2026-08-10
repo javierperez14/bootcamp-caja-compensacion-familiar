@@ -19,3 +19,4 @@ Las **Cajas de Compensación Familiar** son entidades colombianas que administra
 | Semana | Tema | Estado |
 |--------|------|--------|
 | [week-01](./week-01/) | Node.js Fundamentals — Procesador de catálogo de beneficios | ✅ Entregado |
+| [week-02](./week-02/) | Express Intro — API CRUD de afiliados con Express 5 | ✅ Entregado |
