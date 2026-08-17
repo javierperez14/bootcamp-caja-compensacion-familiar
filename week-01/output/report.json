@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-07-27T12:30:41.433Z",
+  "appliedFilter": null,
+  "summary": {
+    "total": 15,
+    "active": 13,
+    "inactive": 2,
+    "averageMonthlyValue": 163534.73,
+    "mostExpensive": {
+      "id": "b007",
+      "name": "Subsidio de vivienda VIS",
+      "category": "vivienda",
+      "monthlyValue": 500000,
+      "availableQuotas": 80,
+      "active": true
+    },
+    "cheapest": {
+      "id": "b005",
+      "name": "Acceso a parques recreativos",
+      "category": "recreacion",
+      "monthlyValue": 25000,
+      "availableQuotas": 1200,
+      "active": true
+    },
+    "categories": [
+      "salud",
+      "educacion",
+      "recreacion",
+      "vivienda",
+      "subsidio_monetario"
+    ]
+  },
+  "items": [
+    {
+      "id": "b001",
+      "name": "Consulta médica general",
+      "category": "salud",
+      "monthlyValue": 45000,
+      "availableQuotas": 500,
+      "active": true
+    },
+    {
+      "id": "b002",
+      "name": "Odontología preventiva",
+      "category": "salud",
+      "monthlyValue": 38000,
+      "availableQuotas": 300,
+      "active": true
+    },
+    {
+      "id": "b003",
+      "name": "Beca educación superior",
+      "category": "educacion",
+      "monthlyValue": 350000,
+      "availableQuotas": 150,
+      "active": true
+    },
+    {
+      "id": "b004",
+      "name": "Subsidio de útiles escolares",
+      "category": "educacion",
+      "monthlyValue": 85000,
+      "availableQuotas": 800,
+      "active": true
+    },
+    {
+      "id": "b005",
+      "name": "Acceso a parques recreativos",
+      "category": "recreacion",
+      "monthlyValue": 25000,
+      "availableQuotas": 1200,
+      "active": true
+    },
+    {
+      "id": "b006",
+      "name": "Paquete vacacional familiar",
+      "category": "recreacion",
+      "monthlyValue": 120000,
+      "availableQuotas": 200,
+      "active": true
+    },
+    {
+      "id": "b007",
+      "name": "Subsidio de vivienda VIS",
+      "category": "vivienda",
+      "monthlyValue": 500000,
+      "availableQuotas": 80,
+      "active": true
+    },
+    {
+      "id": "b008",
+      "name": "Mejoramiento de vivienda",
+      "category": "vivienda",
+      "monthlyValue": 280000,
+      "availableQuotas": 120,
+      "active": true
+    },
+    {
+      "id": "b009",
+      "name": "Subsidio monetario familiar",
+      "category": "subsidio_monetario",
+      "monthlyValue": 106674,
+      "availableQuotas": 2000,
+      "active": true
+    },
+    {
+      "id": "b010",
+      "name": "Auxilio para desempleo",
+      "category": "subsidio_monetario",
+      "monthlyValue": 213347,
+      "availableQuotas": 400,
+      "active": true
+    },
+    {
+      "id": "b011",
+      "name": "Psicología clínica",
+      "category": "salud",
+      "monthlyValue": 55000,
+      "availableQuotas": 180,
+      "active": true
+    },
+    {
+      "id": "b012",
+      "name": "Curso de idiomas",
+      "category": "educacion",
+      "monthlyValue": 95000,
+      "availableQuotas": 250,
+      "active": false
+    },
+    {
+      "id": "b013",
+      "name": "Clases de natación",
+      "category": "recreacion",
+      "monthlyValue": 60000,
+      "availableQuotas": 350,
+      "active": true
+    },
+    {
+      "id": "b014",
+      "name": "Arrendamiento subsidiado",
+      "category": "vivienda",
+      "monthlyValue": 320000,
+      "availableQuotas": 60,
+      "active": false
+    },
+    {
+      "id": "b015",
+      "name": "Subsidio adulto mayor",
+      "category": "subsidio_monetario",
+      "monthlyValue": 160000,
+      "availableQuotas": 600,
+      "active": true
+    }
+  ]
+}
