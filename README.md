@@ -19,3 +19,8 @@ Las **Cajas de Compensación Familiar** son entidades colombianas que administra
 | Semana | Tema | Estado |
 |--------|------|--------|
 | [week-01](./week-01/) | Node.js Fundamentals — Procesador de catálogo de beneficios | ✅ Entregado |
+| [week-02](./week-02/) | Express Intro — API CRUD de afiliados con Express 5 | ✅ Entregado |
+| [week-03](./week-03/) | REST API Arquitectura en Capas — CRUD de Employers | ✅ Entregado |
+| [week-04](./week-04/) | Validación y Manejo de Errores — Zod, AppError, Winston | ✅ Entregado |
+| [week-05](./week-05/) | PostgreSQL + Prisma ORM — Benefit y Category con migraciones | ✅ Entregado |
+| [week-06](./week-06/) | MongoDB + Mongoose — Benefit y Category con populate() | ✅ Entregado |
