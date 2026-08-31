@@ -1,0 +1,28 @@
+{
+  "name": "proyecto-semana-06",
+  "version": "1.0.0",
+  "description": "Proyecto: API REST con MongoDB y Mongoose — Dominio: Caja de Compensación Familiar",
+  "main": "dist/server.js",
+  "engines": { "node": ">=22.0.0" },
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "seed": "tsx src/seed.ts"
+  },
+  "dependencies": {
+    "dotenv": "16.4.7",
+    "express": "5.1.0",
+    "mongoose": "8.13.2",
+    "morgan": "1.10.0",
+    "winston": "3.17.0",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "@types/express": "5.0.1",
+    "@types/morgan": "1.9.9",
+    "@types/node": "22.15.3",
+    "tsx": "4.19.4",
+    "typescript": "5.8.3"
+  }
+}
