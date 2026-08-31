@@ -23,4 +23,3 @@ Las **Cajas de Compensación Familiar** son entidades colombianas que administra
 | [week-03](./week-03/) | REST API Arquitectura en Capas — CRUD de Employers | ✅ Entregado |
 | [week-04](./week-04/) | Validación y Manejo de Errores — Zod, AppError, Winston | ✅ Entregado |
 | [week-05](./week-05/) | PostgreSQL + Prisma ORM — Benefit y Category con migraciones | ✅ Entregado |
-| [week-06](./week-06/) | MongoDB + Mongoose — Benefit y Category con populate() | ✅ Entregado |
