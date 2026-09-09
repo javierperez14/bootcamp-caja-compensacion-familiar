@@ -24,3 +24,6 @@ Las **Cajas de Compensación Familiar** son entidades colombianas que administra
 | [week-04](./week-04/) | Validación y Manejo de Errores — Zod, AppError, Winston | ✅ Entregado |
 | [week-05](./week-05/) | PostgreSQL + Prisma ORM — Benefit y Category con migraciones | ✅ Entregado |
 | [week-06](./week-06/) | MongoDB + Mongoose — Benefit y Category con populate() | ✅ Entregado |
+| [week-07](./week-07/) | Autenticación JWT — bcrypt, access/refresh tokens, cookies HttpOnly | ✅ Entregado |
+
+
