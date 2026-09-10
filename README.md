@@ -25,5 +25,6 @@ Las **Cajas de Compensación Familiar** son entidades colombianas que administra
 | [week-05](./week-05/) | PostgreSQL + Prisma ORM — Benefit y Category con migraciones | ✅ Entregado |
 | [week-06](./week-06/) | MongoDB + Mongoose — Benefit y Category con populate() | ✅ Entregado |
 | [week-07](./week-07/) | Autenticación JWT — bcrypt, access/refresh tokens, cookies HttpOnly | ✅ Entregado |
+| [week-08](./week-08/) | Autorización RBAC + Helmet, CORS, Rate Limiting, Sanitización | ✅ Entregado |
 
 
