@@ -1,0 +1,10 @@
+import { Router } from 'express';
+import * as controller from '../controllers/benefits.controller';
+import { authMiddleware } from '../middlewares/auth.middleware';
+import { requireRole } from '../middlewares/requireRole';
+export const benefitsRouter = Router();
+benefitsRouter.get('/', controller.getAll);
+benefitsRouter.get('/:id', controller.getById);
+benefitsRouter.post('/', authMiddleware, controller.create);
+benefitsRouter.patch('/:id', authMiddleware, controller.update);
+benefitsRouter.delete('/:id', authMiddleware, requireRole('admin'), controller.remove);
